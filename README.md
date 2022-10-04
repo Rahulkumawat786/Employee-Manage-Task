@@ -5,6 +5,9 @@
 2. Server: Nodejs, expressjs
 3. Database: Mongodb
 
+## Live demo
+https://drivesalesmanagetask.herokuapp.com/
+
 ## Run locally
 clone the project
 ````
