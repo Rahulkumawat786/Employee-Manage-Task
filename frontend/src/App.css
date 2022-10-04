@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: #ecdbdb no-repeat fixed center;
+}
+.middle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.middle h1{
+    font-size: 50px;
+    padding: 15px 0;
+}
+.task-update{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.header {
+    display: flex;
+    flex-direction: row;
+    background-color: #8f7fff;
+    width: 90%;
+    height: 70px;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+    border-radius: 15px;
+}
+
+.header h2 {
+    background-color: #8f7fff;
+    font-size: 25px;
+    color: white;
+}
+.btn{
+    width: 20%;
+    height: 40px;
+    margin: 10px 0;
+}
+.btn button{
+    width: 100%;
+    height: inherit;
+    font-size: 20px;
+    background-color: #8f7fff;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.filter{
+    width: 20%;
+    height: 40px;
+    margin: 10px 0;
+}
+.filter select{
+    width: 100%;
+    height: inherit;
+    background-color: #8f7fff;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+.filter select option{
+    background-color: #8f7fff;
+}
