@@ -1,12 +1,10 @@
-# DriveSales-Employee-Manage-Task
+# Employee-Manage-Task
 
 ## Tack Stack
 1. Client: ReactJs
 2. Server: Nodejs, expressjs
 3. Database: Mongodb
 
-## Live demo
-https://drivesalesmanagetask.herokuapp.com/
 
 ## Run locally
 clone the project
