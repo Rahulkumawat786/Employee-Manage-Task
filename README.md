@@ -9,11 +9,11 @@
 ## Run locally
 clone the project
 ````
-git clone https://github.com/Rahulkumawat786/DriveSales-Employee-Manage-Task
+git clone https://github.com/Rahulkumawat786/Employee-Manage-Task.git
 ````
 go to the project directory
 ````
-cd DriveSales-Employee-Manage-Task
+cd Employee-Manage-Task
 ````
 install dependencies
 ````
